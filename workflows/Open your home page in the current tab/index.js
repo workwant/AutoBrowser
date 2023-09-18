@@ -1,0 +1,1 @@
+keyboard.hotkey:alt,left_arrow

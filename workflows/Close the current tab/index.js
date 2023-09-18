@@ -1,0 +1,1 @@
+keyboard.hotkey:ctrl,w
